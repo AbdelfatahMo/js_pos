@@ -1,0 +1,94 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* wb_pos
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 16.0+e\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-12-27 11:04+0000\n"
+"PO-Revision-Date: 2023-12-27 11:04+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: wb_pos
+#. odoo-javascript
+#: code:addons/wb_pos/static/src/js/web_simple_button.js:0
+#, python-format
+msgid "Are you sure to continue?"
+msgstr "هل انت متاكد من الاستمرار"
+
+#. module: wb_pos
+#. odoo-javascript
+#: code:addons/wb_pos/static/src/js/web_simple_button.js:0
+#, python-format
+msgid "Confirm"
+msgstr "تأكيد"
+
+#. module: wb_pos
+#. odoo-javascript
+#: code:addons/wb_pos/static/src/js/web_simple_button.js:0
+#, python-format
+msgid "Continue"
+msgstr "استمرار"
+
+#. module: wb_pos
+#. odoo-javascript
+#: code:addons/wb_pos/static/src/js/web_simple_button.js:0
+#, python-format
+msgid "Error"
+msgstr "خطأ"
+
+#. module: wb_pos
+#. odoo-javascript
+#: code:addons/wb_pos/static/src/xml/sample_button.xml:0
+#: code:addons/wb_pos/static/src/xml/sample_button.xml:0
+#, python-format
+msgid "Simple"
+msgstr "بسيط"
+
+#. module: wb_pos
+#. odoo-javascript
+#: code:addons/wb_pos/static/src/xml/sample_button.xml:0
+#, python-format
+msgid "Simple Button"
+msgstr "زر بسيط"
+
+#. module: wb_pos
+#. odoo-javascript
+#: code:addons/wb_pos/static/src/js/web_simple_button.js:0
+#, python-format
+msgid "Test Error popup JS!."
+msgstr "خطأ في شاشة الفتح"
+
+#. module: wb_pos
+#. odoo-javascript
+#: code:addons/wb_pos/static/src/js/web_simple_button.js:0
+#, python-format
+msgid "bad"
+msgstr "سيئ"
+
+#. module: wb_pos
+#. odoo-javascript
+#: code:addons/wb_pos/static/src/js/web_simple_button.js:0
+#, python-format
+msgid "cancel"
+msgstr "الغاء"
+
+#. module: wb_pos
+#. odoo-javascript
+#: code:addons/wb_pos/static/src/js/web_simple_button.js:0
+#, python-format
+msgid "good"
+msgstr "جيد"
+
+#. module: wb_pos
+#. odoo-javascript
+#: code:addons/wb_pos/static/src/js/web_simple_button.js:0
+#, python-format
+msgid "well"
+msgstr "رائع"

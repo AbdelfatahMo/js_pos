@@ -1,0 +1,8 @@
+<templates>
+    <t t-name="WBSimpleButton" owl="1">
+        <div class="control-button">
+            <i class="fa fa-superpowers" role="img" aria-label="Simple Button" title="Simple"/>
+            Simple
+        </div>
+    </t>
+</templates>

@@ -1,0 +1,9 @@
+<templates >
+    <t t-name="WBClearAllButton" owl="1">
+        <div class="control-button">
+            <i class="fa fa-clear" role="img"/>
+            Clear All
+        </div>
+
+    </t>
+</templates>
